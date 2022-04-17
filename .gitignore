@@ -8,6 +8,13 @@ parts
 src/*.egg-info
 lib
 lib64
-chunked
+copy_og.ipynb
+Exercise_01.ipynb
+Exercise.ipynb
+Report references.docx
+ex.py
 Data
+chunked/Input
+chunked/Output
+chunked/test
 *.DS_Store
